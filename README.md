@@ -2,7 +2,7 @@
 
 ### Projeto criado para o projeto integrador 2022 da Universidade Virtual Estadual de São Paulo (Univesp)
 -----
-Tecnologias Utilizadas:
+**Tecnologias Utilizadas:**
 
 - Git
 - Python 3
@@ -11,4 +11,11 @@ Tecnologias Utilizadas:
 - CSS
 - Bootstrap 40
 - jQuery
-
+ ----
+ 
+ **Como rodar esse projeto:**
+ 
+ - Criar uma vitualenv com Python3
+ - Ativar o virtual env
+ - Instalar as dependências
+ - Rodar as migrações
