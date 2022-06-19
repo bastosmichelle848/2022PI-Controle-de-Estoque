@@ -16,6 +16,13 @@
  **Como rodar esse projeto:**
  
  - Criar uma vitualenv com Python3
+ 1.Rode esse comando dentro da pasta:  python -V
+ 2.Logo em seguida rode esse comando: python -m venv .venv (Para criar um ambiente virtual)
+ 
  - Ativar o virtual env
- - Instalar as dependências
- - Rodar as migrações
+1. No windows: https://programwithus.com/learn/python/pip-virtualenv-windows
+2. No linux: source .venv/bin/activate
+
+- Instale o Django: pip install djang
+- Instalar as dependências
+- Rodar as migrações
